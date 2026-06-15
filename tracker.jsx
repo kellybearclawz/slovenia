@@ -4,7 +4,7 @@ const HIKE_DATE = new Date("2026-08-29");
 const STORAGE_KEY = "slovenia-hike-logs";
 
 const WORKOUTS = [
-  { id: "volleyball", label: "Volleyball / Yoga", day: "Mon" },
+  { id: "volleyball", label: "Bootcamp / Yoga", day: "Mon" },
   { id: "spin1", label: "Spin Class", day: "Tue" },
   { id: "trx", label: "TRX + Yoga", day: "Wed" },
   { id: "spin2", label: "Spin Class", day: "Thu" },
